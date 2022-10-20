@@ -15,9 +15,12 @@ function Nav() {
           </li>
           <li className="nav__list">
             <a href="" className='nav__link'>
-              home
+              Books
             </a>
           </li>
+          <button className="btn__menu">
+            <FontAwesomeIcon icon="bars" />
+          </button>
         </ul>
       </div>
     </nav>
